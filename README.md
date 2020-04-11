@@ -1,2 +1,2 @@
-# Unsupervised-Learning-K-means-
+# Unsupervised-Learning-K-means
 Implementation of k means algorithm
